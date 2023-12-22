@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+}
+
+/* Asettelu */
+body {
+  font-family: 'Verdana', sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+/* Otsikoiden väri */
+h1 {
+  color: #333;
+}
+
+h2 {
+  color: #555;
+}
+
+/* Listan tyyli */
+ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+/* Yksittäisen kysymyksen tyyli */
+li {
+  margin-bottom: 15px; 
+}
+
+/* Napin tyyli */
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 10px;
+  border:#333;
+  cursor: pointer;
+  border-radius: 20%;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
+
+input {
+  margin-top: 2%;
+}
